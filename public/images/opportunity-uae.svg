@@ -1,0 +1,10 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="800" fill="#0D2418"/>
+<rect width="1200" height="800" fill="url(#g1)"/>
+<path d="M0 640L200 590L340 620L500 540L700 600L850 530L980 580L1200 520V800H0V640Z" fill="#7E8F76" fill-opacity="0.65"/>
+<rect x="220" y="250" width="130" height="360" fill="#D8C08F" fill-opacity="0.4"/>
+<rect x="390" y="190" width="160" height="420" fill="#D8C08F" fill-opacity="0.52"/>
+<rect x="590" y="230" width="120" height="380" fill="#D8C08F" fill-opacity="0.33"/>
+<rect x="740" y="140" width="180" height="470" fill="#D8C08F" fill-opacity="0.55"/>
+<defs><linearGradient id="g1" x1="120" y1="40" x2="1020" y2="760" gradientUnits="userSpaceOnUse"><stop stop-color="#143121"/><stop offset="1" stop-color="#394A37"/></linearGradient></defs>
+</svg>
